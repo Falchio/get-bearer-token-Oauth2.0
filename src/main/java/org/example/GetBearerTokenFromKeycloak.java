@@ -33,7 +33,7 @@ public class GetBearerTokenFromKeycloak {
             put("username", "user");
             put("password", "user");
             put("client_id", "token-service");
-            put("secret_id", "xI9ZKXQ97iJ6Y1fBgIMbBaOK5xIGvLrC"); //TODO: репозиторий пуббличный
+            put("secret_id", "xI9ZKXQ97iJ6Y1fBgIMbBaOK5xIGvLrC"); //TODO: репозиторий публичный
             put("response_type", "token");
         }};
 
